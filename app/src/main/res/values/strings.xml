@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">appsemdos</string>
+    <string name="nombre1">nombre</string>
+    <string name="nombre2">nombre</string>
+    <string name="fecha1">fecha</string>
+    <string name="fecha2">fecha</string>
+    <string name="email1">email</string>
+    <string name="email2">email</string>
+    <string name="telefono1">telefono</string>
+    <string name="telefono2">telefono</string>
+    <string name="descripcion1">descripcion</string>
+    <string name="descirpcion2">descripcion</string>
+    <string name="botonEnviar">enviar</string>
+    <string name="botonRegresar">regresar</string>
+    <string name="confirmar">confirmar datos</string>
+    <string name="editar">editar</string>
+
+</resources>
